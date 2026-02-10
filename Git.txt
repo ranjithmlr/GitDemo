@@ -1,0 +1,34 @@
+Git>> Verssion Control
+v1
+v2
+v3
+new v4
+
+
+
+>>it is distributed(on Cloud)
+>>Collabration
+>>tracing changes
+>>Recovery
+
+dowlnoad https://git-scm.com/dowlnoads
+
+GitHub
+BitBucket
+GitLab
+GitPod
+
+>> For 1at time need to configure github in our system
+git config --global user.name "ranjithmlr"
+git config --global user.email "ranjithc1601@gmail.com"
+
+git config --global color.ui auto
+
+
+Mandatory Commonds:
+>> git init
+>> git remote add origin https://github.com/ranjithmlr/GitDemo.git
+
+
+
+git pull origin main
