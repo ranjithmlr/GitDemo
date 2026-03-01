@@ -24,7 +24,7 @@ git config --global user.email "ranjithc1601@gmail.com"
 
 git config --global color.ui auto
 
-
+ 
 Mandatory Commonds:
 >> git init
 >> git remote add origin https://github.com/ranjithmlr/GitDemo.git
