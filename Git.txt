@@ -32,3 +32,17 @@ Mandatory Commonds:
 
 
 git pull origin main
+git status
+
+git add .
+git status
+git commit -m "commit Massage"
+git push
+
+create a new branch
+git checkout -b "branchName"
+
+Switch the branch
+git checkout "branchNameWhichNeedsToBeOpened"
+
+git clone "add URL"
